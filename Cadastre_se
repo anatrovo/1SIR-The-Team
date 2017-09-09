@@ -1,0 +1,55 @@
+</html><!DOCTYPE html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Faça o seu cadastro!</title>
+	</head>
+	<body>
+		<h1>Não sou cadastrado: </h1>
+		<h4> Já é cadastrado? <a href="login_ok.html"> Clique Aqui! </a>
+		<form>
+
+			<br><b>Login: </b></br>
+			<br><input type="text" name=""></br>
+
+		<br><b>	Senha: </b></br>
+			<br><input type="password" name=""></br>
+
+			<br><b>Sexo: </b></br>
+			<br><input type="radio" name="Sexo" /> Masculino</br>
+			<br><input type="radio" name="Sexo" /> Feminino</br>
+
+			<br><b>Interesses:<b></br>
+			<input type="checkbox" name=""> Futebol
+		<input type="checkbox" name="">Cinema
+		<input type="checkbox" name="">Jogos
+
+			<br><b>Estado: </b></br>
+
+			<select>
+
+				<br><option>SP</option></br>
+				<br><option>MG</option></br>
+				<br><option>RJ</option></br>
+				<br><option>RS</option></br>
+
+
+			</select>
+
+		<br><br><b>	Observações: </b></br></br>
+		<br><textarea></textarea></br>
+
+
+			<br><b><input type="submit" value="Cadastrar"></br></b>
+
+
+
+
+
+
+
+
+		</form>
+
+
+	</body>
+</html>
